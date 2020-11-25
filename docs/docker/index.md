@@ -3,7 +3,14 @@ title: Docker 4 Dummies
 tags: documentation, Docker
 robots: noindex, nofollow
 lang: fr
-other: un autre tag yaml
+author: Labodunet
+summary: In this lab, you will learn docker basis
+id: docker4dummies.labodunet.fr
+categories: codelab, markdown
+environments: Web
+status: Published
+feedback link: https://github.com/labodunet/sql4dummies
+analytics account: G-MQYN4ZSF1V
 ---
 
 # Introduction à 
@@ -28,3 +35,4 @@ other: un autre tag yaml
 * [Docker Cheat Sheet 1](https://github.com/wsargent/docker-cheat-sheet)
 * [Docker Cheat Sheet 2](http://dockerlabs.collabnix.com/docker/cheatsheet/)
 
+Try to add claat tag
